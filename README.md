@@ -10,7 +10,19 @@ retrofit2  | 2.9.0
 glide |  4.15.1
 firebase-messaging | 23.1.2
 
+
+### Uygulamada Kullanılan Sayfalar:
+Name  | 
+------------- |
+HomeFragment |
+ProductDetailFragment |  
+ShoopingListFragment | 
+NotificationsFragment |
+ProfileFragment |
+ProfileUpdateFragment |
 </p>
+
+  
 
 ### Screenshots
 <p>
