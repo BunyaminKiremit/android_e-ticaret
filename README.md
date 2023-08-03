@@ -14,26 +14,26 @@ firebase-messaging | 23.1.2
 
 ### Screenshots
 <p>
-<a href="https://github.com/BunyaminKiremit/android_e-ticaret/blob/main/images/1.jpeg" target="_blank">
-<img src="https://github.com/BunyaminKiremit/android_e-ticaret/blob/main/images/1.jpeg" width="200" style="max-width:100%;"></a>
-<a href="https://github.com/BunyaminKiremit/android_e-ticaret/blob/main/images/2.jpeg" target="_blank">
-<img src="https://github.com/BunyaminKiremit/android_e-ticaret/blob/main/images/2.jpeg" width="200" style="max-width:100%;"></a>
-<a href="https://github.com/BunyaminKiremit/android_e-ticaret/blob/main/images/3.jpeg" target="_blank">
-<img src="https://github.com/BunyaminKiremit/android_e-ticaret/blob/main/images/3.jpeg" width="200" style="max-width:100%;"></a>
-<a href="https://github.com/BunyaminKiremit/android_e-ticaret/blob/main/images/4.jpeg" target="_blank">
-<img src="https://github.com/BunyaminKiremit/android_e-ticaret/blob/main/images/4.jpeg" width="200" style="max-width:100%;"></a>
-<a href="https://github.com/BunyaminKiremit/android_e-ticaret/blob/main/images/5.jpeg" target="_blank">
-<img src="https://github.com/BunyaminKiremit/android_e-ticaret/blob/main/images/5.jpeg" width="200" style="max-width:100%;"></a>
-<a href="https://github.com/BunyaminKiremit/android_e-ticaret/blob/main/images/6.jpeg" target="_blank">
-<img src="https://github.com/BunyaminKiremit/android_e-ticaret/blob/main/images/6.jpeg" width="200" style="max-width:100%;"></a>
-<a href="https://github.com/BunyaminKiremit/android_e-ticaret/blob/main/images/7.jpeg" target="_blank">
-<img src="https://github.com/BunyaminKiremit/android_e-ticaret/blob/main/images/7.jpeg" width="200" style="max-width:100%;"></a>
-<a href="https://github.com/BunyaminKiremit/android_e-ticaret/blob/main/images/8.jpeg" target="_blank">
-<img src="https://github.com/BunyaminKiremit/android_e-ticaret/blob/main/images/8.jpeg" width="200" style="max-width:100%;"></a>
-<a href="https://github.com/BunyaminKiremit/android_e-ticaret/blob/main/images/9.jpeg" target="_blank">
-<img src="https://github.com/BunyaminKiremit/android_e-ticaret/blob/main/images/9.jpeg" width="200" style="max-width:100%;"></a>
-<a href="https://github.com/BunyaminKiremit/android_e-ticaret/blob/main/images/10.jpeg" target="_blank">
-<img src="https://github.com/BunyaminKiremit/android_e-ticaret/blob/main/images/10.jpeg" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/BunyaminKiremit/android_e-ticaret/blob/main/images/1.jpg" target="_blank">
+<img src="https://github.com/BunyaminKiremit/android_e-ticaret/blob/main/images/1.jpg" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/BunyaminKiremit/android_e-ticaret/blob/main/images/2.jpg" target="_blank">
+<img src="https://github.com/BunyaminKiremit/android_e-ticaret/blob/main/images/2.jpg" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/BunyaminKiremit/android_e-ticaret/blob/main/images/3.jpg" target="_blank">
+<img src="https://github.com/BunyaminKiremit/android_e-ticaret/blob/main/images/3.jpg" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/BunyaminKiremit/android_e-ticaret/blob/main/images/4.jpg" target="_blank">
+<img src="https://github.com/BunyaminKiremit/android_e-ticaret/blob/main/images/4.jpg" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/BunyaminKiremit/android_e-ticaret/blob/main/images/5.jpg" target="_blank">
+<img src="https://github.com/BunyaminKiremit/android_e-ticaret/blob/main/images/5.jpg" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/BunyaminKiremit/android_e-ticaret/blob/main/images/6.jpg" target="_blank">
+<img src="https://github.com/BunyaminKiremit/android_e-ticaret/blob/main/images/6.jpg" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/BunyaminKiremit/android_e-ticaret/blob/main/images/7.jpg" target="_blank">
+<img src="https://github.com/BunyaminKiremit/android_e-ticaret/blob/main/images/7.jpg" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/BunyaminKiremit/android_e-ticaret/blob/main/images/8.jpg" target="_blank">
+<img src="https://github.com/BunyaminKiremit/android_e-ticaret/blob/main/images/8.jpg" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/BunyaminKiremit/android_e-ticaret/blob/main/images/9.jpg" target="_blank">
+<img src="https://github.com/BunyaminKiremit/android_e-ticaret/blob/main/images/9.jpg" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/BunyaminKiremit/android_e-ticaret/blob/main/images/10.jpg" target="_blank">
+<img src="https://github.com/BunyaminKiremit/android_e-ticaret/blob/main/images/10.jpg" width="200" style="max-width:100%;"></a>
 
 ### Gif
 <p>
