@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "130542604535",
+    "project_id": "staj-tv-plus",
+    "storage_bucket": "staj-tv-plus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130542604535:android:3d11ccb27e774e748043f2",
+        "android_client_info": {
+          "package_name": "com.example.stajtvplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130542604535-2of3021vh8p7m6aogrp64a2e44etb6mk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0bMDKGRN7s3F5pncu03b2SXgfRAwGLy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130542604535-2of3021vh8p7m6aogrp64a2e44etb6mk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
