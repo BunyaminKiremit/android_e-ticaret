@@ -1,5 +1,5 @@
 # android_e-ticaret
-Turkcell Staj Task
+Turkcell stajımda dummyjson apisini kullanarak geliştiridiğim Bir E-Ticaret mobil uygulamasıdır.
 <p> 
               
 ### Uygulamada Kullanılan Özellikler:
@@ -20,6 +20,9 @@ ShoopingListFragment |
 NotificationsFragment |
 ProfileFragment |
 ProfileUpdateFragment |
+
+### API:
+https://dummyjson.com
 </p>
 
   
