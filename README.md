@@ -1,5 +1,11 @@
-# android_e-ticaret
-Turkcell stajımda dummyjson apisini kullanarak geliştiridiğim Bir E-Ticaret mobil uygulamasıdır.
+# Project Name: Mobile E-Commerce Application
+I enriched user experience through a Kotlin-based mobile e-commerce application.
+I enhanced the user interface using RecyclerView and XML layouts, effectively displaying data.
+I integrated user session management and identity authentication functionality with Firebase Authentication.
+I employed SQLite/Room database management to store product details, cart content, and user profile data.
+I successfully implemented crucial features such as payment integration and product search functionality.
+I ensured a seamless experience by managing transitions between different activities using the Intent structure.
+Demonstrating my technical skills, I achieved the development of a sustainable and user-centric application.
 <p> 
               
 ### Uygulamada Kullanılan Özellikler:
